@@ -59,7 +59,8 @@ function rupiah($angka)
         <div class="container">
 
             <a class="navbar-brand fw-bold" href="#">
-                🚗 CalCar
+                <img src="https://static.vecteezy.com/system/resources/previews/013/923/543/original/blue-car-logo-png.png" width="35" height="35" class="me-2">
+                CalCar
             </a>
 
             <button
@@ -591,7 +592,8 @@ function rupiah($angka)
         <div class="container text-center">
 
             <h5>
-                🚗 CalCar
+                <img src="https://static.vecteezy.com/system/resources/previews/013/923/543/original/blue-car-logo-png.png" width="30" height="30" class="me-2">
+                CalCar
             </h5>
 
             <p class="mb-1">
